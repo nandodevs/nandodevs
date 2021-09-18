@@ -9,7 +9,7 @@
 
 - 👨‍🎓  &nbsp; Sou graduado em Sistema de Informação pela [UNDB](https://www.undb.edu.br/).
 - 👨‍💻 &nbsp; Atualmente trabalho na [Microcity Computadores e Sistemas Ltda](http://microcity.com.br/) como Suporte em TI
-- 📖 &nbsp; Estudante em Backend Java e Python
+- 📖 &nbsp; Estudando e praticando sobre Backend Java e Python
 
 **💻 Experiências:**
  | Flutter 💙 | Java🧡 | Python💜 |Spring 💜| MySQL💜 | PostgreSQL💜| IoT💜|
