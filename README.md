@@ -15,5 +15,8 @@
  | Flutter 💙 | Java🧡 | Python💜 |Spring 💜| MySQL💜 | PostgreSQL💜| IoT💜|
 
 
-## Github Stats ...
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nandodevs&count_private=true&show_icons=true&theme=onedark)
+<div>
+  <a href="https://github.com/nandodevs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandodevs&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ </a>
