@@ -12,7 +12,7 @@
 - 📖 &nbsp; Analista de Dados Jr | Cientista de Dados Starter
 
 **💻 Experiências:**
- | Flutter 💙 | Java🧡 | Python💜 | Spring 💜| MySQL💜 | PostgreSQL💜| IoT💜| ETL💜 | Data Analytics💜 |
+| Java🧡 | Python💜 | Spring💚| MySQL💛 | PostgreSQL🖤| IoT💜| ETL💙 | Data Analytics🤎 |
 
 
 <div>
