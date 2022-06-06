@@ -9,7 +9,7 @@
 
 - 👨‍🎓  &nbsp; I'm undergraduate in Information System [UNDB](https://www.undb.edu.br/).
 - 👨‍💻 &nbsp; I am currently working at Microcity [Microcity Computadores e Sistemas Ltda](http://microcity.com.br/) as IT Support.
-- 📖 &nbsp; Analista de Dados Jr | Cientista de Dados Starter
+- 📖 &nbsp; Data Analyst Jr | Data Science Starter
 
 **💻 Experiences:**
 | Java🧡 | Python💜 | Spring💚| MySQL💛 | PostgreSQL🖤| IoT💜| ETL💙 | Data Analytics🤎 | Data Science 🤎
