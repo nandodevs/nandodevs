@@ -5,7 +5,7 @@
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=[https://instagram.com/sisnando_dev?igshid=1o9uhlz6bqs4s](https://www.instagram.com/sisnando_jr/))](https://instagram.com/sisnando_jr) 
 [![Gmail Badge](https://img.shields.io/badge/-nandodevs@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nandodevs@gmail.com)](mailto:nandodevs@gmail.com)
 
-### I am enthusiastic in Python and R programming languages and in love about Data Analysis and Data Science.
+### I am enthusiastic in Python programming languages and in love about Data Analysis and Data Science.
 
 - 👨‍🎓  &nbsp; I have degree in Information Systems. 
 - 👨‍💻 &nbsp; I am currently working as IT Analyst.
