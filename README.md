@@ -9,10 +9,10 @@
 
 - 👨‍🎓  &nbsp; I have degree in Information Systems. 
 - 👨‍💻 &nbsp; I am currently working as IT Analyst.
-- 📖 &nbsp; Data Analyst Jr | Data Science Jr
+- 📖 &nbsp; Data Analyst | Data Science
 
 **💻 Experiences:**
-| Java🧡 | Python💜 | Spring💚| MySQL💛 | PostgreSQL🖤| IoT💜| ETL💙 | Data Analytics🤎 | Data Science 🤎
+ Data Science 🤎 | Machine Learning 🤖 | Java 🧡 | Python 💜 | SQL 💛 | Data Analytics🤎 | 
 
 
 <div>
