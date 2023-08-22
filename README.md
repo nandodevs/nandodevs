@@ -1,25 +1,66 @@
-## Hi, I'm Sisnando Junior👋
-#### Welcome to my world 🧑‍💻!
+# Olá Devs 👋
 
- [![Linkedin Badge](https://img.shields.io/badge/-SisnandoJunior-6633cc?-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sisnando-junior/)](https://www.linkedin.com/in/sisnando-junior/) 
- [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=[https://instagram.com/sisnando_dev?igshid=1o9uhlz6bqs4s](https://www.instagram.com/sisnando_jr/))](https://instagram.com/sisnando_jr) 
-[![Gmail Badge](https://img.shields.io/badge/-nandodevs@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nandodevs@gmail.com)](mailto:nandodevs@gmail.com)
+Sou apaixonado pelo mundo dos dados e tudo que envolve tecnologia, animes e bom bate-papo. 
 
-### I am enthusiastic in Python programming languages and in love about Data Analysis and Data Science.
+## Mais sobre mim
 
-- 👨‍🎓  &nbsp; I have degree in Information Systems. 
-- 👨‍💻 &nbsp; I am currently working as IT Analyst.
-- 📖 &nbsp; Data Analyst | Data Science
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-**💻 Experiences:**
- Data Science 🤎 | Machine Learning 🤖 | Java 🧡 | Python 💜 | SQL 💛 | Data Analytics🤎 | 
+```python
+class HELLO_WORLD:
+    def __init__(self):
+        self.name = "Sisnando Junior"
+        self.acknowledgements = "Data Science & Analytics"
+        self.primarySkillset = ["SQL", "PostGreSQL", "Azure", "Power BI"]
+        self.languages = ["Java", "Python", "JavaScript"]
+```
+
+## Linguagens e ferramentas
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## Cloud & Databases
+
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Bibliotecas
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
-<div>
-  <a href="https://github.com/nandodevs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandodevs&layout=compact&langs_count=7&theme=dracula"/>
-  
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
-</div>
+## Status
 
- </a>
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandodevs&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/nandodevs">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nandodevs&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+[website]: https://medium.com/@nando.devs
+[twitter]: https://twitter.com/nando_junior30
+[youtube]: https://www.youtube.com/@streamzone_/
+[instagram]: https://www.instagram.com/sisnando_jr/
+[linkedin]: https://www.linkedin.com/in/sisnando-junior/
+
+<br>
+
+## Rede sociais
+
+🏡 [Medium][website] **|**
+🐦 [Twitter][twitter] **|**
+📺 [Youtube][youtube] **|**
+📷 [Instagram][instagram] **|**
+👔 [LinkedIn][linkedin]
