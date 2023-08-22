@@ -1,6 +1,6 @@
 # Olá Devs 👋
 
-Sou apaixonado pelo mundo dos dados e tudo que envolve tecnologia, animes e bom bate-papo. 
+Sou apaixonado pelo mundo dos dados e tudo que envolve tecnologia, animes e viagens!!! 
 
 ## Mais sobre mim
 
