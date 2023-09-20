@@ -46,7 +46,7 @@ class HELLO_WORLD:
 </a>
 
 <a href="https://github.com/nandodevs">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nandodevs&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandodevs&theme=2077"/>
 </a>
 
 [website]: https://medium.com/@nando.devs
