@@ -18,6 +18,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nandodevs&repo=investimentos-govbr-dataeng&theme=dark)](https://github.com/nandodevs/investimentos-govbr-dataeng)
 
 # 👨🏼‍💻 Tops Langs:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandodevs)](https://github.com/nandodevs?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandodevs&theme=dark)](https://github.com/nandodevs?tab=repositories)
 
 
