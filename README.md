@@ -45,7 +45,7 @@ Passionate about transforming data into valuable insights! I specialize in **Dat
 
 ## 🚀 Featured Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=portfolio-projetcs-de&repo=football-azure-engineering&theme=dark)](https://github.com/portfolio-projetcs-de/football-azure-engineering)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nandodevs&repo=amazon-tv-video-analysis&theme=dark)](https://github.com/nandodevs/amazon-tv-video-analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nandodevs&repo=heart_disease_prediction&theme=dark)](https://github.com/nandodevs/heart_disease_prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nandodevs&repo=mdl-flask-api&theme=dark)](https://github.com/nandodevs/mdl-flask-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nandodevs&repo=investimentos-govbr-dataeng&theme=dark)](https://github.com/nandodevs/investimentos-govbr-dataeng)
 
