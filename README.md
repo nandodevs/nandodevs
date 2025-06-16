@@ -9,7 +9,7 @@ Passionate about transforming data into valuable insights! I specialize in **Dat
 - 🌱 Learning and improving my skills in **Cloud Services (Azure, AWS, GCP), SQL Server, and Web Scraping with Python**.
 - 📝 I share knowledge on [Medium](https://medium.com/@nando.devs).
 - 📂 My projects are available on [GitHub](https://github.com/nandodevs).
-- 💬 Ask me about **Python, Machine Learning, Data Science, Data Engineering, and IT**.
+- 💬 Ask me about **Python, Data Engineering and IT**.
 - 📫 Reach me at **nando.devs@gmail.com**.
 
 ## 🌐 Connect with me:
