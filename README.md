@@ -54,14 +54,13 @@ Passionate about building robust data foundations! I specialize in the **Modern 
 ![Sisnando's GitHub stats](https://github-readme-badges-theta.vercel.app/api?username=nandodevs&show_icons=true&theme=dark)
 
 ## 🚀 Featured Projects:
-[![Readme Card](https://github-readme-badges-theta.vercel.app/api/pin/?username=portfolio-projects-de&repo=football-azure-engineering&theme=dark)](https://github.com/portfolio-projects-de/football-azure-engineering)
+[![Readme Card](https://github-readme-badges-theta.vercel.app/api/pin/?username=nandodevs&repo=kdrama_analytics_project&theme=dark)](https://github.com/nandodevs/kdrama_analytics_project)
 [![Readme Card](https://github-readme-badges-theta.vercel.app/api/pin/?username=nandodevs&repo=heart_disease_prediction&theme=dark)](https://github.com/nandodevs/heart_disease_prediction)
 [![Readme Card](https://github-readme-badges-theta.vercel.app/api/pin/?username=nandodevs&repo=mdl-flask-api&theme=dark)](https://github.com/nandodevs/mdl-flask-api)
 [![Readme Card](https://github-readme-badges-theta.vercel.app/api/pin/?username=nandodevs&repo=investimentos-govbr-dataeng&theme=dark)](https://github.com/nandodevs/investimentos-govbr-dataeng)
 
 ## 🔥 Top Languages:
 [![Top Langs](https://github-readme-badges-theta.vercel.app/api/top-langs/?username=nandodevs&layout=compact&theme=dark)](https://github.com/nandodevs?tab=repositories)
-
 
 ---
 
