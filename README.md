@@ -9,11 +9,16 @@ I am a Data Engineer focused on building high-performance, scalable data archite
 - 🏗️ Specialist in **Medallion Architecture** (Bronze/Silver/Gold) using **SQL, dbt, and Airflow**.
 - 🛠️ Implementation of **Data Observability** and automated alerting using **Elementary** and **Slack**.
 - ⚙️ Deep experience in **Orchestration** with **Astronomer (Airflow)** and containerization with **Docker**.
-- 🦾 Integration of **Generative AI** into data workflows to optimize ETL processes and metadata enrichment.
-- 📝 Sharing technical insights on [Medium](https://medium.com/@nando.devs).
+- 📝 I document my journey and projects on my [Notion Portfolio](https://brook-bay-469.notion.site/sisnando-portfolio) and [Medium](https://medium.com/@nando.devs).
 - 💬 Ask me about **dbt, Airflow, Data Quality and Architecture**.
 
-## 🌐 Connect with me:
+## 🎯 Current Focus:
+- 🛠️ **Data Reliability at Scale:** Refining data quality tests and real-time monitoring with Elementary.
+- 🔄 **ELT Automation:** Optimizing ingestion processes from various sources (APIs, Databases) using Airbyte and custom Python scripts.
+- 🤖 **AI-Driven Data Ops:** Integrating LLMs for automated documentation and schema mapping in dbt.
+
+## 🌐 Connect & Portfolio:
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://brook-bay-469.notion.site/sisnando-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sisnando-junior) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nando.devs)
 
@@ -34,7 +39,6 @@ I am a Data Engineer focused on building high-performance, scalable data archite
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 💾 Databases & Warehousing:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
