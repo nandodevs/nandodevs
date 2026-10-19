@@ -1,59 +1,78 @@
-# 👋 Hello! I'm Sisnando Junior
+<h1 align="center">Hi, I'm Sisnando Junior 👋</h1>
+<h3 align="center">Data Engineer · Analytics Engineer · Modern Data Stack</h3>
 
-### 🚀 Mid-level Data Engineer | Analytics Engineer | Modern Data Stack Expert
-
-I am a Data Engineer focused on building high-performance, scalable data architectures. Currently, I specialize in the **Modern Data Stack**, emphasizing **Data Quality** and **Observability** to transform raw information into strategic business assets.
-
-## 💡 About Me:
-- 🔭 Currently **Data Engineer** at **Maxinutri**, leading the construction of robust pipelines and data governance.
-- 🏗️ Specialist in **Medallion Architecture** (Bronze/Silver/Gold) using **SQL, dbt, and Airflow**.
-- 🛠️ Implementation of **Data Observability** and automated alerting using **Elementary** and **Slack**.
-- ⚙️ Deep experience in **Orchestration** with **Astronomer (Airflow)** and containerization with **Docker**.
-- 📝 I document my journey and projects on my [Notion Portfolio](https://brook-bay-469.notion.site/sisnando-portfolio) and [Medium](https://medium.com/@nando.devs).
-- 💬 Ask me about **dbt, Airflow, Data Quality and Architecture**.
-
-## 🎯 Current Focus:
-- 🛠️ **Data Reliability at Scale:** Refining data quality tests and real-time monitoring with Elementary.
-- 🔄 **ELT Automation:** Optimizing ingestion processes from various sources (APIs, Databases) using Airbyte and custom Python scripts.
-- 🤖 **AI-Driven Data Ops:** Integrating LLMs for automated documentation and schema mapping in dbt.
-
-## 🌐 Connect & Portfolio:
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://brook-bay-469.notion.site/sisnando-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sisnando-junior) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nando.devs)
+<p align="center">
+  <a href="https://brook-bay-469.notion.site/sisnando-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sisnando-junior"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@nando.devs"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
 
 ---
 
-## 💻 Tech Stack:
+## 🧭 About Me
 
-### ⚙️ Orchestration, Transformation & Quality:
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Elementary](https://img.shields.io/badge/Elementary-FF4081?style=for-the-badge&logo=databricks&logoColor=white)
-![Astronomer](https://img.shields.io/badge/Astronomer-2D2D2D?style=for-the-badge&logo=astronomer&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Airbyte](https://img.shields.io/badge/Airbyte-6132F9?style=for-the-badge&logo=airbyte&logoColor=white)
+I build **reliable, scalable and observable data platforms**: pipelines people can trust, and data that drives decisions.
 
-### 🚀 Languages & Cloud:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+- 🔭 **Data Engineer @ Zenvia**: building ingestion pipelines, data modeling and governance
+- 🏗️ **Medallion Architecture** (Bronze → Silver → Gold) with **SQL, dbt and Airflow**
+- 🛡️ **Data Observability**: automated tests and Slack alerting with **Elementary**
+- ⚙️ **Orchestration & Infra**: **Astronomer (Airflow)**, **Docker**, multi-tenant API ingestion
+- 💬 Ask me about **dbt, Airflow, Data Quality and Data Architecture**
 
-### 💾 Databases & Warehousing:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+## 🎯 Current Focus
+
+| Area | What I'm working on |
+|---|---|
+| 🛡️ **Data Reliability** | Data quality tests and pipeline monitoring with Elementary |
+| 🔄 **ELT Automation** | Ingestion from APIs and databases with Airbyte and custom Python |
+| 🤖 **AI-Driven DataOps** | LLMs for automated dbt documentation and schema mapping |
 
 ---
 
-## 📊 GitHub Stats:
-![Sisnando's GitHub stats](https://github-readme-badges-theta.vercel.app/api?username=nandodevs&show_icons=true&theme=dark)
+## 🛠️ Tech Stack
 
-## 🚀 Featured Projects:
-[![Readme Card](https://github-readme-badges-theta.vercel.app/api/pin/?username=nandodevs&repo=kdrama_analytics_project&theme=dark)](https://github.com/nandodevs/kdrama_analytics_project)
-[![Readme Card](https://github-readme-badges-theta.vercel.app/api/pin/?username=nandodevs&repo=investimentos-govbr-dataeng&theme=dark)](https://github.com/nandodevs/investimentos-govbr-dataeng)
+**Orchestration · Transformation · Quality**
+<br>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elementary-FF4081?style=flat-square"/>
+<img src="https://img.shields.io/badge/Astronomer-2D2D2D?style=flat-square&logo=astronomer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airbyte-6132F9?style=flat-square&logo=airbyte&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+**Languages · Cloud · Warehousing**
+<br>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+
+**Databases**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
 ---
 
-📩 **Let's connect and discuss Data Reliability, dbt, and Scalable Architectures!**
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/nandodevs/kdrama_analytics_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nandodevs&repo=kdrama_analytics_project&theme=github_dark&hide_border=true"/>
+  </a>
+  <a href="https://github.com/nandodevs/investimentos-govbr-dataeng">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nandodevs&repo=investimentos-govbr-dataeng&theme=github_dark&hide_border=true"/>
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nandodevs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandodevs&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+---
+
+<p align="center">📩 <b>Let's talk about Data Reliability, dbt and Scalable Architectures!</b></p>
