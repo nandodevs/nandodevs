@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sisnando-junior)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=notion&logoColor=white)](https://brook-bay-469.notion.site/sisnando-portfolio)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nando.devs)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sis_data)
 ![Profile views](https://komarev.com/ghpvc/?username=nandodevs&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS)
 
 </div>
